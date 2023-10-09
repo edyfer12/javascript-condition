@@ -5,8 +5,15 @@ let hour = new Date().getHours();
 //Create a function
 
 window.onload = function () {
+
+    //Add a function call
+    
     greet();
+
+    //Create a function
+
     function greet () {
+
         //Create an if statement
 
         if ( hour > 18) {
