@@ -4,11 +4,18 @@ let hour = new Date().getHours();
 
 //Create a function
 
-//Create an if statement
+window.onload() = function () {
+    greet();
+    function greet () {
+        //Create an if statement
 
-if ( hour > 18) {
+        if ( hour > 18) {
 
-    //Display the message
+            //Display the message
 
-    document.getElementById("greeting").innerHTML = "Good evening";
+            document.getElementById("greeting").innerHTML = "Good evening";
+        }
+    }
 }
+
+
