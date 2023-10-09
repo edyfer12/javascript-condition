@@ -4,7 +4,7 @@ let hour = new Date().getHours();
 
 //Create a function
 
-window.onload() = function () {
+window.onload = function () {
     greet();
     function greet () {
         //Create an if statement
