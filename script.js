@@ -23,6 +23,8 @@ window.onload = function () {
             document.getElementById("greeting").innerHTML = "Good morning";
         }
 
+        //Add else if statement
+
         //Add else statement
 
         else {
