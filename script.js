@@ -24,6 +24,10 @@ window.onload = function () {
         }
 
         //Add else statement
+
+        else {
+            document.getElementById("greeting").innerHTML = "Good evening";
+        }
     }
 }
 
