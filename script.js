@@ -7,7 +7,6 @@ let hour = new Date().getHours();
 if ( hour > 18) {
 
     //Display the message
-    
-    document.getElementById('#greeting').innerHTML = 
-    "Good evening";
+
+    document.getElementById("greeting").innerHTML = "Good evening";
 }
