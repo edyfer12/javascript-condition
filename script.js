@@ -25,6 +25,10 @@ window.onload = function () {
 
         //Add else if statement
 
+        else if (hour < 20) {
+
+        }
+
         //Add else statement
 
         else {
