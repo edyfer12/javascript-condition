@@ -2,6 +2,8 @@
 
 let hour = new Date().getHours();
 
+//Create a function
+
 //Create an if statement
 
 if ( hour > 18) {
