@@ -28,13 +28,14 @@ window.onload = function () {
         else if (hour < 20) {
 
             //Display message
+            document.getElementById("greeting").innerHTML = "Good day!";
 
         }
 
         //Add else statement
 
         else {
-            
+
             //Display message
 
             document.getElementById("greeting").innerHTML = "Good evening";
