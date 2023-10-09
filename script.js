@@ -22,6 +22,8 @@ window.onload = function () {
 
             document.getElementById("greeting").innerHTML = "Good day";
         }
+
+        //Add else statement
     }
 }
 
