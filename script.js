@@ -16,11 +16,11 @@ window.onload = function () {
 
         //Create an if statement
 
-        if ( hour < 18) {
+        if ( hour < 10) {
 
             //Display the message
 
-            document.getElementById("greeting").innerHTML = "Good day";
+            document.getElementById("greeting").innerHTML = "Good morning";
         }
 
         //Add else statement
